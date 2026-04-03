@@ -1,11 +1,9 @@
 streamlit
 yfinance
-scikit-learn
-xgboost
-ta
-plotly
-tensorflow
-keras
-matplotlib
 numpy
 pandas
+ta
+scikit-learn
+xgboost
+matplotlib
+plotly
