@@ -1,5 +1,5 @@
 streamlit
-tvdatafeed
+git+https://github.com/StreamAlpha/tvdatafeed.git
 scikit-learn
 xgboost
 ta
