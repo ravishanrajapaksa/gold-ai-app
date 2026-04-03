@@ -1,6 +1,11 @@
-yfinance
-pandas
-numpy
 streamlit
-ta
+tvdatafeed
 scikit-learn
+xgboost
+ta
+plotly
+tensorflow
+keras
+matplotlib
+numpy
+pandas
