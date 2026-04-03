@@ -5,5 +5,5 @@ pandas
 ta
 scikit-learn
 xgboost
-matplotlib
 plotly
+matplotlib
