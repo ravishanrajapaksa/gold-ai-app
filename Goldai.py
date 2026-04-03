@@ -16,7 +16,7 @@ st.title("🤖 AI Trading Dashboard - XGBoost + LSTM Ensemble")
 tv = TvDatafeed()
 
 @st.cache_data
-def load_data(symbol='XAUUSD', exchange='OANDA', bars=1000):
+def load_data(symbol='CL1', exchange='NYMEX', bars=1000):
     df = tv.get_hist(symbol=symbol, exchange=exchange, interval=Interval.in_1_hour, n_bars=bars)
     if df is None or df.empty:
         return None
