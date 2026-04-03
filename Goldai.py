@@ -4,8 +4,6 @@ import pandas as pd
 import numpy as np
 import ta
 from sklearn.preprocessing import MinMaxScaler
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import LSTM, Dense
 from xgboost import XGBClassifier
 
 # =========================
